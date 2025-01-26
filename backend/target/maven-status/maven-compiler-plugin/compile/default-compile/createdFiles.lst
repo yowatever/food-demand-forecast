@@ -1,0 +1,4 @@
+com\fooddemandforecast\repository\AggregationResult.class
+com\fooddemandforecast\FoodDemandForecastApplication.class
+com\fooddemandforecast\model\FoodDemandForecast.class
+com\fooddemandforecast\repository\FoodDemandForecastRepository.class
